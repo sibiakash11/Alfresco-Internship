@@ -1,0 +1,14 @@
+path=C:\\Users\\Sibi\\ac\\test
+
+DOWNLOAD_LINK=http://localhost:8080/alfresco/api/-default-/public/cmis/versions/1.1/browser/root
+
+ALFRESCO_API_URL=http://localhost:8080/
+
+USER_NAME=admin
+
+PASSWORD=admin
+
+FOLDER_PATH=/MyAlfrescoFolder
+
+CONTENT_TYPE=cmis:document
+

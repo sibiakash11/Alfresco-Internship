@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-14">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Sibi/ac/Jar/asm-3.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sibi/ac/Jar/chemistry-opencmis-client-api-1.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sibi/ac/Jar/chemistry-opencmis-client-bindings-1.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sibi/ac/Jar/chemistry-opencmis-client-impl-1.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sibi/ac/Jar/chemistry-opencmis-commons-api-1.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sibi/ac/Jar/chemistry-opencmis-commons-impl-1.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sibi/ac/Jar/cxf-core-3.0.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sibi/ac/Jar/cxf-rt-bindings-soap-3.0.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sibi/ac/Jar/cxf-rt-bindings-xml-3.0.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sibi/ac/Jar/cxf-rt-databinding-jaxb-3.0.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sibi/ac/Jar/cxf-rt-frontend-jaxws-3.0.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sibi/ac/Jar/cxf-rt-frontend-simple-3.0.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sibi/ac/Jar/cxf-rt-transports-http-3.0.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sibi/ac/Jar/cxf-rt-ws-addr-3.0.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sibi/ac/Jar/cxf-rt-wsdl-3.0.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sibi/ac/Jar/cxf-rt-ws-policy-3.0.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sibi/ac/Jar/jaxb-core-2.2.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sibi/ac/Jar/jaxb-impl-2.2.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sibi/ac/Jar/neethi-3.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sibi/ac/Jar/stax2-api-3.1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sibi/ac/Jar/woodstox-core-asl-4.4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sibi/ac/Jar/wsdl4j-1.6.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sibi/ac/Jar/xml-resolver-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sibi/ac/Jar/xmlschema-core-2.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sibi/ac/Jar/slf4j-api-1.7.21.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sibi/ac/Jar/org.json/org.json.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
